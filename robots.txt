@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /lido-staking/
+Sitemap: Staking-Yield.github.io/sitemap.xml
